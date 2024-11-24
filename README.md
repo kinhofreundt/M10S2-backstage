@@ -70,7 +70,7 @@ CMD ["node", "packages/backend", "--config", "app-config.yaml"]
  
 
 Container do backstage rodando.
-![image](./Images/Screenshot 2024-11-24 173625.png)
+![image](./Images/22.png)
 
 Backstage rodando em: http://localhost:7007
-![image](./Images/Screenshot 2024-11-24 173532.png)
+![image](./Images/11.png)
